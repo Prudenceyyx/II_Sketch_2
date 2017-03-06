@@ -1,7 +1,7 @@
 //drawBalls() refers to the code in the book Generative Design
 //in the folder P_2_1_2_03 on http://www.generative-gestaltung.de
 
-//This project utlizes openCV to detect faces
+//This project utilizes openCV to detect faces
 //and draw grids of squares that reacts to the location and size of the face in 3D.
 
 import gab.opencv.*;
